@@ -13,6 +13,6 @@ updated and even faster than the older sniper
 # notes
 
 i recommend using a alt due to people reporting an account for sniping limiteds
-the program might be picked up by antivirus due to program manipulation if this happens just click create an ecxeption
+the program might be picked up by antivirus due to program manipulation if this happens just click create an exeption
 
 
